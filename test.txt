@@ -1,2 +1,3 @@
 apple is red
 pig is big
+man is good
